@@ -9,6 +9,6 @@ This account serves as my primary active GitHub — I use it alongside my person
 - 💬 Ask me about my goals and aspirations in the tech space
 - 📫 How to reach me:
   - Personal GitHub: https://github.com/tonedoan
-  - LinkedIn: https://www.linkedin.com/in/tuan-doan-54a90086/
+  - LinkedIn: https://www.linkedin.com/in/tonytuandoan/
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I enjoy listening to film scores and gaming music
